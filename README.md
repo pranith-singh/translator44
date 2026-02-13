@@ -20,12 +20,12 @@
 ---
 
 ## 📖 Overview
-EchoStream takes an audio file (e.g., WAV/MP3), performs **speech → translation** into **Telugu (te)**, **Hindi (hi)**, or **Tamil (ta)**, and persists results and artifacts to your chosen cloud storage (**Azure Blob** or **AWS S3**). A simple web UI and REST API are included so you can automate the workflow or use it manually.
+EchoStream takes an audio and video file (e.g., WAV/MP3), performs **speech → translation** into **Telugu (te)**, **Hindi (hi)**, or **Tamil (ta)**, and persists results and artifacts to your chosen cloud storage (**Azure Blob** or **AWS S3**). A simple web UI and REST API are included so you can automate the workflow or use it manually.
 
 ---
 
 ## ✨ Features
-- 🎙️ **Audio in → Multilingual out** (Telugu, Hindi, Tamil,English)
+- 🎙️ **Audio in → Multilingual out** (Telugu, Hindi, Tamil, English)
 - ⚡ **Batch or single uploads** via REST API or Web UI
 - ☁️ **Pluggable storage**: Azure Blob or AWS S3
 - 🔐 **Secure by default**: environment‑based secrets (no keys in code)
