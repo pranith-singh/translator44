@@ -4,7 +4,8 @@ azure-storage-blob
 openai-whisper
 deep-translator
 waitress
-torch --index-url https://download.pytorch.org/whl/cpu
+torch
+
 
 
 
