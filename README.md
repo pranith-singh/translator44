@@ -47,7 +47,8 @@ EchoStream takes an audio file (e.g., WAV/MP3), performs **speech → translatio
         │
         └─ Store → Azure Blob  OR  AWS S3
                          │
-                         └─ Return translation.txt file 
+                         └─ Return JSoN (status + storage URL)
+
 ```
 
 ---
