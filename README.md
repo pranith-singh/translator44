@@ -25,7 +25,7 @@ EchoStream takes an audio file (e.g., WAV/MP3), performs **speech → translatio
 ---
 
 ## ✨ Features
-- 🎙️ **Audio in → Multilingual out** (Telugu, Hindi, Tamil)
+- 🎙️ **Audio in → Multilingual out** (Telugu, Hindi, Tamil,English)
 - ⚡ **Batch or single uploads** via REST API or Web UI
 - ☁️ **Pluggable storage**: Azure Blob or AWS S3
 - 🔐 **Secure by default**: environment‑based secrets (no keys in code)
